@@ -13,3 +13,7 @@ https://doi.org/10.48550/arxiv.2506.11022
 Schreiber, M., & Tippe, P. (2025). Security vulnerabilities in AI-generated code:  
 A large-scale analysis of public GitHub repositories. arXiv preprint arXiv:2510.26103.  
 https://doi.org/10.1007/978-981-95-3537-8_9
+
+IEEE Xplore. (2026b). Code comprehension gaps in AI-assisted development: A conceptual  
+framework for knowledge erosion patterns. IEEE Xplore, Advance online publication.  
+https://doi.org/10.1109/IEEEXplore.2026.11503233
