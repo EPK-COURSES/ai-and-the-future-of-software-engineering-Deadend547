@@ -43,7 +43,7 @@ the AI is now performing behavior that the developer doesn't expect it to.
 AI tools frequently reference outdated or even entirely non-existent software libraries and APIs that at  
 best lead to build/compilation issues and at worst references to unvetted libraries that open up the  
 software to a whole world of security risks. Outdated packages can also lead to maintenance nightmares  
-later down the line due to undefined behaviors in these depracated packages(IEEE Xplore, 2026b). 
+later down the line due to undefined behaviors in these depracated packages(M. S. Patel et al.). 
 ### 2.2 Code Bloat and (lack of) modularity
 Analyses of AI tools show that they lack holistic context, that meaning that they can't understand  
 the software as a whole. This leads these tools to generating bloated code that lacks long term  
@@ -51,6 +51,6 @@ modularity(TechRxiv, 2026). This phenomenon creates "black box" systems where de
 to implement later updates.
 ### 2.3 Comprehension Debt
 This is a new type of technical debt that has come about due to the rapid adoption of AI tools  
-(IEEE Xplore, 2026b). This term refers to code that works in production but cannot be verified or modified  
+(M. S. Patel et al.). This term refers to code that works in production but cannot be verified or modified  
 by human developers because often they skipped the work of actually writing it, in some cases a specific  
-piece of code may have never even been seen by a human before(IEEE Xplore, 2026b). 
+piece of code may have never even been seen by a human before(M. S. Patel et al.). 
