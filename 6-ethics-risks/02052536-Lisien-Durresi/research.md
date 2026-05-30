@@ -53,4 +53,20 @@ to implement later updates.
 This is a new type of technical debt that has come about due to the rapid adoption of AI tools  
 (M. S. Patel et al.). This term refers to code that works in production but cannot be verified or modified  
 by human developers because often they skipped the work of actually writing it, in some cases a specific  
-piece of code may have never even been seen by a human before(M. S. Patel et al.). 
+piece of code may have never even been seen by a human before(M. S. Patel et al.).  
+
+
+## 3. Cognitive Degradation
+
+### 3.1 Knowledge Voids and Mental Model Erosion
+Traditional software engineering relies on developers having mental models of the system architecture.  
+Code comprehension consumes from 58% to 70% of developer time during maintenance(M. S. Patel et al.).  
+Relying on AI Tools creates large knowledge voids where developers lack the understanding required to
+start debugging problems during major, unexpected production failures(M. S. Patel et al.).
+### 3.2 Overdependence on AI
+Developers consistently report trusting AI generated code more than their own, however the actual  
+output quality remains highly questionable(Negri-Ribalta et al., 2024). Software Engineering is  
+currently going through a major paradigm shift where developers move from writing code into requirement  
+specification, code verification and validation(TechRxiv, 2026). Without strict Human in the loop  
+safeguards, a closed feedback error loop occurs where AI bugs pass unchecked because of blind human  
+trust(M. S. Patel et al.; TechRxiv, 2026).
